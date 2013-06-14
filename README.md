@@ -1,4 +1,2 @@
-helloworld
-==========
-
-eclispe结合
+cas-core
+========
